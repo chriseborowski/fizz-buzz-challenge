@@ -10,7 +10,7 @@ Hailed as a canonical live coding interview question, FizzBuzz is here, written 
 
 **Sample prompt:**
 
-"Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz"" ([source: CodingHorror blog](https://blog.codinghorror.com/why-cant-programmers-program/))
+*Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz"* ([source: CodingHorror](https://blog.codinghorror.com/why-cant-programmers-program/))
 
 For a live demo of the project on Replit, click [here](https://replit.com/@chriseborowski/FizzBuzz).
 
